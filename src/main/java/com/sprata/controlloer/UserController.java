@@ -1,7 +1,7 @@
-package com.test2.controlloer;
+package com.sprata.controlloer;
 
-import com.test2.DTO.UserResponseDto;
-import com.test2.service.UserService;
+import com.sprata.DTO.UserResponseDto;
+import com.sprata.service.UserService;
 import lombok.RequiredArgsConstructor;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PathVariable;

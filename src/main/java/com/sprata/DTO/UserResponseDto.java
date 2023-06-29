@@ -1,6 +1,6 @@
-package com.test2.DTO;
+package com.sprata.DTO;
 
-import com.test2.entity.Member;
+import com.sprata.entity.Member;
 import lombok.Getter;
 
 @Getter

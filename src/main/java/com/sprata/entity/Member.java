@@ -1,4 +1,4 @@
-package com.test2.entity;
+package com.sprata.entity;
 
 import jakarta.persistence.*;
 import lombok.Getter;
@@ -6,7 +6,7 @@ import lombok.NoArgsConstructor;
 
 @Entity
 @Getter
-@Table(name = "user")
+@Table(name = "member")
 @NoArgsConstructor
 public class Member {
     @Id

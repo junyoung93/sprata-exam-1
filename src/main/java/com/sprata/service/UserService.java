@@ -1,7 +1,7 @@
-package com.test2.service;
+package com.sprata.service;
 
-import com.test2.DTO.UserResponseDto;
-import com.test2.repositroy.UserRepository;
+import com.sprata.DTO.UserResponseDto;
+import com.sprata.repositroy.UserRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.stereotype.Service;
 
